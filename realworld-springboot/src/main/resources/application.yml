@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: realworld-springboot
+  datasource: 
+    url:
+    username:
+    password:
